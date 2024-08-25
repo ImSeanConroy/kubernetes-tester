@@ -1,0 +1,9 @@
+appName: myapp
+
+namespace: default
+
+replicas: 2
+
+image:
+  name: nanajanashia/argocd-app
+  tag: 1.2
